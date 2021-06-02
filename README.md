@@ -72,5 +72,3 @@ $ yarn start
 ## LICENSE
 
 MIT © [hseoy](https://github.com/hseoy)
-
-**[⬆ Back to Top](#Table-of-content)**
