@@ -4,11 +4,18 @@
 
 ## Table of content
 
+- [The Goal](#the-goal)
 - [Technologies](#technologies)
 - [Setting up a project](#setting-up-a-project)
 - [LICENSE](#license)
 
 ---
+
+## The Goal
+
+@TODO
+
+**[⬆ Back to Top](#Table-of-content)**
 
 ## Technologies
 
